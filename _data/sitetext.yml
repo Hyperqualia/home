@@ -67,7 +67,7 @@ en: &DEFAULT_EN
         logo: assets/img/clients/twistedfrequency.jpg
       - title: "Yatra"
         url: https://www.yatra.co.nz
-        logo: assets/img/clients/yatra.jpg
+        logo: assets/img/clients/yatra.png
   team:
     title: "OUR AMAZING TEAM"
     text: "Lorem ipsum dolor sit amet consectetur."
@@ -111,8 +111,6 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-
-           icon: fab fa-linkedin-in
 
   contact:
     title: "Contact Us"
