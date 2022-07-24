@@ -68,6 +68,7 @@ en: &DEFAULT_EN
       - title: "Yatra"
         url: https://www.yatra.co.nz
         logo: assets/img/clients/yatra.png
+
   team:
     title: "OUR AMAZING TEAM"
     text: "Lorem ipsum dolor sit amet consectetur."
@@ -101,7 +102,7 @@ en: &DEFAULT_EN
           - url: https://facebook.com
             icon: fab fa-facebook-f
           - url: https://linkedin.com
-       - name: "Hugh"
+      - name: "Hugh"
         role: "badass"
         image: assets/img/team/500x500.jpg
         social:
